@@ -1,0 +1,13 @@
+body{
+    background: plum;
+    font-family: 'Itim', cursive;
+    }
+    .footer_div{
+    width:100%;
+    position: fixed;
+    bottom:0px;
+    text-align: center;
+    line-height:3;
+    background-color:pink;
+    color: black;
+    }
